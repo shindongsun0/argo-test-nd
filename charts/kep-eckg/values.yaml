@@ -1,3 +1,6 @@
 global:
   version: v1
   ns: "kep-eckg"
+
+argo-helmtest-ns:
+  replicaCount: 2
