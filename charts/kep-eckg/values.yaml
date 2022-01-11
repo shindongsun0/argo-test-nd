@@ -1,2 +1,3 @@
 global:
+  version: v1
   ns: "kep-eckg"
