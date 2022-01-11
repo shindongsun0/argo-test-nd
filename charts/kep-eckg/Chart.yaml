@@ -25,5 +25,5 @@ appVersion: "1.16.0"
 
 dependencies:
   - name: argo-helmtest-ns
-    version: 0.1.0
+    version: 0.1.1
     repository: https://shindongsun0.github.io/helm-charts/submodule
