@@ -1,6 +1,0 @@
-global:
-  version: v1
-  ns: "test"
-
-argo-helmtest-ns:
-  replicaCount: 2
